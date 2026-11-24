@@ -1,0 +1,482 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Primary SEO -->
+    <title>
+      Contact Neowake® Chroma | Official Wellness Technology Support
+    </title>
+
+    <meta
+      name="description"
+      content="Contact Neowake® Chroma for customer support, wellness technology assistance, order inquiries, neuro-acoustic product questions, and general information about frequency-based wellness devices."
+    />
+
+    <meta
+      name="keywords"
+      content="Contact Neowake Chroma, Neowake support, wellness technology support, brainwave entrainment contact, neuro acoustic device support, frequency wellness help"
+    />
+
+    <meta
+      name="robots"
+      content="index, follow, max-image-preview:large"
+    />
+
+    <meta name="author" content="Neowake Chroma" />
+
+    <!-- Canonical -->
+    <link
+      rel="canonical"
+      href="https://en-neowake.com/contact"
+    />
+
+    <!-- Open Graph -->
+    <meta
+      property="og:title"
+      content="Contact Neowake® Chroma"
+    />
+
+    <meta
+      property="og:description"
+      content="Official Neowake® Chroma contact page for customer support and wellness technology assistance."
+    />
+
+    <meta property="og:type" content="website" />
+
+    <meta
+      property="og:url"
+      content="https://en-neowake.com/contact"
+    />
+
+    <meta
+      property="og:image"
+      content="https://en-neowake.com/assets/images/ChromaFront-NoBG.webp"
+    />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <meta
+      name="twitter:title"
+      content="Contact Neowake® Chroma"
+    />
+
+    <meta
+      name="twitter:description"
+      content="Get support and assistance for Neowake® Chroma wellness technology products."
+    />
+
+    <!-- Faster Crawling -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+
+    <!-- Favicon -->
+    <link
+      rel="shortcut icon"
+      href="./assets/images/Chroma-Watch-Startseite-1.webp"
+      type="image/x-icon"
+    />
+
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ContactPage",
+        "name": "Neowake Chroma Contact Page",
+        "url": "https://en-neowake.com/contact",
+        "description": "Official contact page for Neowake Chroma wellness technology support.",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Neowake Chroma"
+        }
+      }
+    </script>
+
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Segoe UI", Arial, sans-serif;
+        background: #060b14;
+        color: #e2e8f0;
+        line-height: 1.8;
+      }
+
+      .hero {
+        background: linear-gradient(135deg, #07101d, #101d35, #152a4a);
+        padding: 90px 20px;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+      }
+
+      .hero::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: radial-gradient(
+          circle at center,
+          rgba(0, 255, 255, 0.12),
+          transparent 60%
+        );
+      }
+
+      .hero h1 {
+        font-size: 3rem;
+        margin-bottom: 18px;
+        font-weight: 800;
+        color: #ffffff;
+        position: relative;
+        z-index: 2;
+      }
+
+      .hero p {
+        max-width: 780px;
+        margin: auto;
+        font-size: 1.05rem;
+        color: #d1d5db;
+        position: relative;
+        z-index: 2;
+      }
+
+      .wrapper {
+        max-width: 1150px;
+        margin: -50px auto 60px;
+        padding: 0 20px;
+      }
+
+      .content-box {
+        background: #0f172a;
+        border-radius: 22px;
+        padding: 45px;
+        box-shadow: 0 12px 40px rgba(0, 0, 0, 0.45);
+        border: 1px solid rgba(255, 255, 255, 0.06);
+      }
+
+      .intro-box {
+        background: rgba(0, 255, 255, 0.08);
+        border-left: 5px solid #00e5ff;
+        padding: 24px;
+        border-radius: 14px;
+        margin-bottom: 35px;
+      }
+
+      .intro-box p {
+        color: #dbeafe;
+      }
+
+      h2 {
+        color: #ffffff;
+        margin-top: 40px;
+        margin-bottom: 15px;
+        font-size: 1.7rem;
+        font-weight: 700;
+      }
+
+      p {
+        margin-bottom: 18px;
+        color: #cbd5e1;
+        font-size: 1rem;
+      }
+
+      .contact-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+        gap: 30px;
+        margin-top: 35px;
+      }
+
+      .contact-card {
+        background: rgba(255, 255, 255, 0.03);
+        border-radius: 18px;
+        padding: 28px;
+        border: 1px solid rgba(255, 255, 255, 0.05);
+      }
+
+      .contact-card h3 {
+        color: #ffffff;
+        margin-bottom: 12px;
+        font-size: 1.35rem;
+      }
+
+      .contact-card p {
+        margin-bottom: 12px;
+      }
+
+      a {
+        color: #38bdf8;
+        text-decoration: none;
+        font-weight: 600;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      form {
+        margin-top: 35px;
+      }
+
+      .form-group {
+        margin-bottom: 22px;
+      }
+
+      label {
+        display: block;
+        margin-bottom: 8px;
+        color: #ffffff;
+        font-weight: 600;
+      }
+
+      input,
+      textarea {
+        width: 100%;
+        padding: 14px 16px;
+        border-radius: 12px;
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        background: rgba(255, 255, 255, 0.03);
+        color: #ffffff;
+        outline: none;
+        font-size: 1rem;
+      }
+
+      textarea {
+        min-height: 140px;
+        resize: vertical;
+      }
+
+      input:focus,
+      textarea:focus {
+        border-color: #38bdf8;
+      }
+
+      .btn {
+        display: inline-block;
+        padding: 14px 28px;
+        border-radius: 14px;
+        background: linear-gradient(135deg, #00e5ff, #38bdf8);
+        color: #06111f;
+        font-weight: 700;
+        border: none;
+        cursor: pointer;
+        transition: 0.3s ease;
+      }
+
+      .btn:hover {
+        transform: translateY(-2px);
+      }
+
+      .seo-links {
+        margin-top: 45px;
+        padding-top: 25px;
+        border-top: 1px solid rgba(255, 255, 255, 0.08);
+      }
+
+      .seo-links a {
+        margin-right: 18px;
+        display: inline-block;
+        margin-bottom: 10px;
+      }
+
+      .footer {
+        text-align: center;
+        padding: 35px 20px;
+        color: #94a3b8;
+        font-size: 14px;
+      }
+
+      @media (max-width: 768px) {
+        .hero {
+          padding: 65px 20px;
+        }
+
+        .hero h1 {
+          font-size: 2.2rem;
+        }
+
+        .hero p {
+          font-size: 1rem;
+        }
+
+        .content-box {
+          padding: 28px 22px;
+        }
+
+        h2 {
+          font-size: 1.4rem;
+        }
+
+        p {
+          font-size: 0.97rem;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+
+    <!-- HERO -->
+    <section class="hero">
+      <h1>Contact Neowake® Chroma</h1>
+
+      <p>
+        Need help with Neowake® Chroma wellness technology, neuro-acoustic
+        experiences, frequency-based products, or customer support? Our team is
+        here to assist you.
+      </p>
+    </section>
+
+    <!-- CONTENT -->
+    <div class="wrapper">
+      <div class="content-box">
+
+        <div class="intro-box">
+          <p>
+            Welcome to the official Neowake® Chroma contact page. Whether you
+            have questions about wellness devices, order status, frequency
+            technology, meditation support, or general product inquiries, our
+            support team is ready to help.
+          </p>
+        </div>
+
+        <h2>Customer Support & Assistance</h2>
+
+        <p>
+          Neowake® Chroma is committed to providing a secure, professional, and
+          user-friendly wellness experience. Please contact us for assistance
+          related to products, orders, technical support, or general wellness
+          information.
+        </p>
+
+        <div class="contact-grid">
+
+          <div class="contact-card">
+            <h3>Email Support</h3>
+
+            <p>
+              Contact our support team for product assistance, order updates,
+              and general inquiries.
+            </p>
+
+            <p>
+              <a href="mailto:support@en-neowake.com">
+                support@en-neowake.com
+              </a>
+            </p>
+          </div>
+
+          <div class="contact-card">
+            <h3>Business Hours</h3>
+
+            <p>
+              Monday – Friday
+            </p>
+
+            <p>
+              9:00 AM – 6:00 PM
+            </p>
+
+            <p>
+              Support response times may vary during holidays and weekends.
+            </p>
+          </div>
+
+          <div class="contact-card">
+            <h3>Wellness Technology Support</h3>
+
+            <p>
+              Get assistance regarding neuro-acoustic devices, frequency
+              experiences, wearable wellness products, and meditation support.
+            </p>
+          </div>
+
+        </div>
+
+        <h2>Send Us a Message</h2>
+
+        <p>
+          Use the contact form below to reach the Neowake® Chroma support team.
+          We aim to respond as quickly as possible.
+        </p>
+
+        <form>
+
+          <div class="form-group">
+            <label for="name">Full Name</label>
+
+            <input
+              type="text"
+              id="name"
+              name="name"
+              placeholder="Enter your full name"
+              required
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="email">Email Address</label>
+
+            <input
+              type="email"
+              id="email"
+              name="email"
+              placeholder="Enter your email address"
+              required
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="subject">Subject</label>
+
+            <input
+              type="text"
+              id="subject"
+              name="subject"
+              placeholder="Enter your subject"
+              required
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="message">Message</label>
+
+            <textarea
+              id="message"
+              name="message"
+              placeholder="Write your message here..."
+              required
+            ></textarea>
+          </div>
+
+          <button type="submit" class="btn">
+            Send Message
+          </button>
+
+        </form>
+
+        <!-- Internal SEO Linking -->
+        <div class="seo-links">
+          <a href="/">Home</a>
+          <a href="/about">About Neowake Chroma</a>
+          <a href="/privacy">Privacy Policy</a>
+          <a href="/terms">Terms & Conditions</a>
+          <a href="/disclaimer">Disclaimer</a>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- FOOTER -->
+    <div class="footer">
+      © 2026 Neowake® Chroma Official. All Rights Reserved.
+    </div>
+
+  </body>
+<html>

@@ -1,0 +1,444 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- SEO -->
+    <title>
+      About Neowake® Chroma | Advanced Neuro-Acoustic Wellness Technology
+    </title>
+
+    <meta
+      name="description"
+      content="Learn about Neowake® Chroma, an advanced wellness technology platform focused on neuro-acoustic experiences, brainwave entrainment, meditation support, light-frequency devices, relaxation, focus enhancement, and mindful living."
+    />
+
+    <meta
+      name="keywords"
+      content="About Neowake Chroma, neuro acoustic wellness, brainwave entrainment technology, frequency wellness device, meditation support technology, light frequency wearable, mindfulness technology"
+    />
+
+    <meta
+      name="robots"
+      content="index, follow, max-image-preview:large"
+    />
+
+    <meta name="author" content="Neowake Chroma" />
+
+    <!-- Canonical -->
+    <link
+      rel="canonical"
+      href="https://en-neowake.com/about"
+    />
+
+    <!-- Open Graph -->
+    <meta
+      property="og:title"
+      content="About Neowake® Chroma"
+    />
+
+    <meta
+      property="og:description"
+      content="Discover the mission behind Neowake® Chroma wellness technology and neuro-acoustic experiences."
+    />
+
+    <meta property="og:type" content="website" />
+
+    <meta
+      property="og:url"
+      content="https://en-neowake.com/about"
+    />
+
+    <meta
+      property="og:image"
+      content="https://en-neowake.com/assets/images/ChromaFront-NoBG.webp"
+    />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <meta
+      name="twitter:title"
+      content="About Neowake® Chroma"
+    />
+
+    <meta
+      name="twitter:description"
+      content="Explore the world of neuro-acoustic wellness technology with Neowake® Chroma."
+    />
+
+    <!-- Faster SEO Crawling -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+
+    <!-- Favicon -->
+    <link
+      rel="shortcut icon"
+      href="./assets/images/Chroma-Watch-Startseite-1.webp"
+      type="image/x-icon"
+    />
+
+    <!-- Schema -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "AboutPage",
+        "name": "About Neowake Chroma",
+        "url": "https://en-neowake.com/about",
+        "description": "Official about page for Neowake Chroma wellness technology platform.",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Neowake Chroma"
+        }
+      }
+    </script>
+
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Segoe UI", Arial, sans-serif;
+        background: #060b14;
+        color: #e2e8f0;
+        line-height: 1.8;
+      }
+
+      .hero {
+        background: linear-gradient(135deg, #07101d, #101d35, #152a4a);
+        padding: 100px 20px;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+      }
+
+      .hero::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: radial-gradient(
+          circle at center,
+          rgba(0, 255, 255, 0.12),
+          transparent 60%
+        );
+      }
+
+      .hero h1 {
+        font-size: 3.2rem;
+        margin-bottom: 20px;
+        font-weight: 800;
+        color: #ffffff;
+        position: relative;
+        z-index: 2;
+      }
+
+      .hero p {
+        max-width: 820px;
+        margin: auto;
+        font-size: 1.08rem;
+        color: #d1d5db;
+        position: relative;
+        z-index: 2;
+      }
+
+      .wrapper {
+        max-width: 1180px;
+        margin: -50px auto 60px;
+        padding: 0 20px;
+      }
+
+      .content-box {
+        background: #0f172a;
+        border-radius: 24px;
+        padding: 45px;
+        box-shadow: 0 12px 40px rgba(0, 0, 0, 0.45);
+        border: 1px solid rgba(255, 255, 255, 0.06);
+      }
+
+      .intro-box {
+        background: rgba(0, 255, 255, 0.08);
+        border-left: 5px solid #00e5ff;
+        padding: 24px;
+        border-radius: 14px;
+        margin-bottom: 40px;
+      }
+
+      .intro-box p {
+        color: #dbeafe;
+      }
+
+      .about-image {
+        width: 100%;
+        border-radius: 22px;
+        overflow: hidden;
+        margin: 35px 0;
+        border: 1px solid rgba(255, 255, 255, 0.08);
+      }
+
+      .about-image img {
+        max-width: 400px;
+        display: block;
+        object-fit: cover;
+      }
+
+      h2 {
+        color: #ffffff;
+        margin-top: 40px;
+        margin-bottom: 16px;
+        font-size: 1.8rem;
+        font-weight: 700;
+      }
+
+      p {
+        margin-bottom: 18px;
+        color: #cbd5e1;
+        font-size: 1rem;
+      }
+
+      .feature-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 25px;
+        margin-top: 35px;
+      }
+
+      .feature-card {
+        background: rgba(255, 255, 255, 0.03);
+        border-radius: 18px;
+        padding: 28px;
+        border: 1px solid rgba(255, 255, 255, 0.05);
+      }
+
+      .feature-card h3 {
+        color: #ffffff;
+        margin-bottom: 14px;
+        font-size: 1.3rem;
+      }
+
+      .highlight-box {
+        background: rgba(255, 255, 255, 0.03);
+        border-radius: 18px;
+        padding: 28px;
+        margin-top: 35px;
+        border: 1px solid rgba(255, 255, 255, 0.05);
+      }
+
+      .highlight-box h3 {
+        color: #ffffff;
+        margin-bottom: 14px;
+        font-size: 1.5rem;
+      }
+
+      a {
+        color: #38bdf8;
+        text-decoration: none;
+        font-weight: 600;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      .seo-links {
+        margin-top: 45px;
+        padding-top: 25px;
+        border-top: 1px solid rgba(255, 255, 255, 0.08);
+      }
+
+      .seo-links a {
+        margin-right: 18px;
+        display: inline-block;
+        margin-bottom: 10px;
+      }
+
+      .footer {
+        text-align: center;
+        padding: 35px 20px;
+        color: #94a3b8;
+        font-size: 14px;
+      }
+
+      @media (max-width: 768px) {
+        .hero {
+          padding: 70px 20px;
+        }
+
+        .hero h1 {
+          font-size: 2.3rem;
+        }
+
+        .hero p {
+          font-size: 1rem;
+        }
+
+        .content-box {
+          padding: 28px 22px;
+        }
+
+        h2 {
+          font-size: 1.45rem;
+        }
+
+        p {
+          font-size: 0.97rem;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+
+    <!-- HERO -->
+    <section class="hero">
+      <h1>About Neowake® Chroma</h1>
+
+      <p>
+        Discover the vision behind Neowake® Chroma — an innovative wellness
+        technology experience designed to support mindfulness, meditation,
+        relaxation, focus enhancement, and modern neuro-acoustic wellness
+        lifestyles.
+      </p>
+    </section>
+
+    <!-- CONTENT -->
+    <div class="wrapper">
+      <div class="content-box">
+
+        <div class="intro-box">
+          <p>
+            Neowake® Chroma combines neuro-acoustic experiences, frequency-based
+            wellness technology, light stimulation concepts, and mindfulness
+            support into a modern wellness platform created for individuals
+            seeking balance, focus, relaxation, and mental clarity.
+          </p>
+        </div>
+
+        <!-- IMAGE -->
+        <div class="about-image">
+          <img
+            src="./assets/images/ChromaFront-NoBG.webp"
+            alt="Neowake Chroma Wellness Technology Device"
+            loading="lazy"
+          />
+        </div>
+
+        <h2>The Neowake® Chroma Experience</h2>
+
+        <p>
+          Neowake® Chroma is inspired by the growing interest in mindfulness,
+          meditation technology, brainwave entrainment, and neuro-acoustic
+          wellness experiences. The platform focuses on supporting healthy
+          routines through immersive sensory experiences designed to encourage
+          relaxation and mental reset.
+        </p>
+
+        <p>
+          By combining sound-based experiences, frequency-inspired wellness
+          concepts, and wearable light stimulation technology, Neowake® Chroma
+          aims to create a calming and immersive environment for modern
+          lifestyles.
+        </p>
+
+        <h2>Core Wellness Focus Areas</h2>
+
+        <div class="feature-grid">
+
+          <div class="feature-card">
+            <h3>Mindfulness Support</h3>
+
+            <p>
+              Designed to encourage mindful relaxation, meditation practices,
+              and mental clarity through immersive wellness experiences.
+            </p>
+          </div>
+
+          <div class="feature-card">
+            <h3>Neuro-Acoustic Experiences</h3>
+
+            <p>
+              Supports sensory wellness through carefully designed sound and
+              frequency-inspired experiences for modern lifestyles.
+            </p>
+          </div>
+
+          <div class="feature-card">
+            <h3>Focus & Relaxation</h3>
+
+            <p>
+              Helps create calming environments that support focus,
+              mindfulness, and daily relaxation routines.
+            </p>
+          </div>
+
+          <div class="feature-card">
+            <h3>Wellness Technology</h3>
+
+            <p>
+              Combines wearable technology concepts with modern wellness trends
+              for a more immersive user experience.
+            </p>
+          </div>
+
+        </div>
+
+        <h2>Why People Explore Neowake® Chroma</h2>
+
+        <p>
+          Wellness enthusiasts around the world continue exploring meditation
+          support systems, mindfulness tools, frequency-inspired experiences,
+          and neuro-acoustic technologies as part of balanced lifestyles.
+        </p>
+
+        <p>
+          Neowake® Chroma represents a modern approach to wellness technology
+          by blending innovative experiences with mindful daily habits.
+        </p>
+
+        <div class="highlight-box">
+          <h3>Modern Wellness Through Technology</h3>
+
+          <p>
+            Neowake® Chroma believes wellness technology should feel immersive,
+            calming, and user-friendly. Our goal is to support mindful living
+            experiences through innovative neuro-acoustic and sensory wellness
+            concepts designed for modern users.
+          </p>
+        </div>
+
+        <h2>Commitment to User Experience</h2>
+
+        <p>
+          We focus on creating a secure, transparent, and educational wellness
+          platform where users can explore mindfulness support, frequency-based
+          experiences, and modern sensory wellness technologies with confidence.
+        </p>
+
+        <p>
+          Our platform continues evolving to provide improved experiences,
+          educational resources, and accessible wellness-focused information.
+        </p>
+
+        <!-- Internal SEO Linking -->
+        <div class="seo-links">
+          <a href="/">Home</a>
+          <a href="/privacy">Privacy Policy</a>
+          <a href="/terms">Terms & Conditions</a>
+          <a href="/disclaimer">Disclaimer</a>
+          <a href="/contact">Contact</a>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- FOOTER -->
+    <div class="footer">
+      © 2026 Neowake® Chroma Official. All Rights Reserved.
+    </div>
+
+  </body>
+</html>

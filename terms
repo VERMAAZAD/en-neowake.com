@@ -1,0 +1,520 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- SEO -->
+    <title>
+      Neowake® Chroma Terms & Conditions | Official Wellness Technology Website
+    </title>
+
+    <meta
+      name="description"
+      content="Read the official Neowake® Chroma Terms & Conditions covering website usage, wellness technology products, neuro-acoustic content, payments, refunds, customer responsibilities, and platform policies."
+    />
+
+    <meta
+      name="keywords"
+      content="Neowake Chroma terms and conditions, Neowake policies, brainwave entrainment website terms, neuro acoustic product terms, wellness technology legal page, frequency device policies"
+    />
+
+    <meta
+      name="robots"
+      content="index, follow, max-image-preview:large"
+    />
+
+    <meta name="author" content="Neowake Chroma" />
+
+    <!-- Canonical -->
+    <link
+      rel="canonical"
+      href="https://en-neowake.com/terms"
+    />
+
+    <!-- Open Graph -->
+    <meta
+      property="og:title"
+      content="Neowake® Chroma Terms & Conditions"
+    />
+
+    <meta
+      property="og:description"
+      content="Official terms and conditions for Neowake® Chroma wellness technology products and neuro-acoustic platform."
+    />
+
+    <meta property="og:type" content="website" />
+
+    <meta
+      property="og:url"
+      content="https://en-neowake.com/terms"
+    />
+
+    <meta
+      property="og:image"
+      content="https://en-neowake.com/assets/images/ChromaFront-NoBG.webp"
+    />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <meta
+      name="twitter:title"
+      content="Neowake® Chroma Terms & Conditions"
+    />
+
+    <meta
+      name="twitter:description"
+      content="Read the official Neowake® Chroma website terms and wellness technology policies."
+    />
+
+    <!-- Faster Crawling -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+
+    <!-- Favicon -->
+    <link
+      rel="shortcut icon"
+      href="./assets/images/Chroma-Watch-Startseite-1.webp"
+      type="image/x-icon"
+    />
+
+    <!-- Schema -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Neowake Chroma Terms & Conditions",
+        "url": "https://en-neowake.com/terms",
+        "description": "Official terms and conditions for Neowake Chroma wellness technology platform.",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Neowake Chroma"
+        }
+      }
+    </script>
+
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Segoe UI", Arial, sans-serif;
+        background: #060b14;
+        color: #e2e8f0;
+        line-height: 1.8;
+      }
+
+      .hero {
+        background: linear-gradient(135deg, #07101d, #101d35, #152a4a);
+        padding: 90px 20px;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+      }
+
+      .hero::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: radial-gradient(
+          circle at center,
+          rgba(0, 255, 255, 0.12),
+          transparent 60%
+        );
+      }
+
+      .hero h1 {
+        font-size: 3rem;
+        margin-bottom: 18px;
+        font-weight: 800;
+        color: #ffffff;
+        position: relative;
+        z-index: 2;
+      }
+
+      .hero p {
+        max-width: 780px;
+        margin: auto;
+        font-size: 1.05rem;
+        color: #d1d5db;
+        position: relative;
+        z-index: 2;
+      }
+
+      .wrapper {
+        max-width: 1150px;
+        margin: -50px auto 60px;
+        padding: 0 20px;
+      }
+
+      .content-box {
+        background: #0f172a;
+        border-radius: 22px;
+        padding: 45px;
+        box-shadow: 0 12px 40px rgba(0, 0, 0, 0.45);
+        border: 1px solid rgba(255, 255, 255, 0.06);
+      }
+
+      .intro-box {
+        background: rgba(0, 255, 255, 0.08);
+        border-left: 5px solid #00e5ff;
+        padding: 24px;
+        border-radius: 14px;
+        margin-bottom: 35px;
+      }
+
+      .intro-box p {
+        color: #dbeafe;
+      }
+
+      h2 {
+        color: #ffffff;
+        margin-top: 40px;
+        margin-bottom: 15px;
+        font-size: 1.7rem;
+        font-weight: 700;
+      }
+
+      p {
+        margin-bottom: 18px;
+        color: #cbd5e1;
+        font-size: 1rem;
+      }
+
+      ul {
+        padding-left: 22px;
+        margin-bottom: 22px;
+      }
+
+      ul li {
+        margin-bottom: 12px;
+        color: #dbe4ee;
+      }
+
+      a {
+        color: #38bdf8;
+        text-decoration: none;
+        font-weight: 600;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      .note-box {
+        background: rgba(255, 255, 255, 0.03);
+        border-radius: 18px;
+        padding: 28px;
+        margin-top: 30px;
+        border: 1px solid rgba(255, 255, 255, 0.05);
+      }
+
+      .note-box h3 {
+        color: #ffffff;
+        margin-bottom: 14px;
+        font-size: 1.5rem;
+      }
+
+      .seo-links {
+        margin-top: 45px;
+        padding-top: 25px;
+        border-top: 1px solid rgba(255, 255, 255, 0.08);
+      }
+
+      .seo-links a {
+        margin-right: 18px;
+        display: inline-block;
+        margin-bottom: 10px;
+      }
+
+      .footer {
+        text-align: center;
+        padding: 35px 20px;
+        color: #94a3b8;
+        font-size: 14px;
+      }
+
+      @media (max-width: 768px) {
+        .hero {
+          padding: 65px 20px;
+        }
+
+        .hero h1 {
+          font-size: 2.2rem;
+        }
+
+        .hero p {
+          font-size: 1rem;
+        }
+
+        .content-box {
+          padding: 28px 22px;
+        }
+
+        h2 {
+          font-size: 1.4rem;
+        }
+
+        p,
+        li {
+          font-size: 0.97rem;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+
+    <!-- HERO -->
+    <section class="hero">
+      <h1>Neowake® Chroma Terms & Conditions</h1>
+
+      <p>
+        Please review these Terms & Conditions carefully before using the
+        Neowake® Chroma website, purchasing wellness technology products, or
+        accessing neuro-acoustic experiences and frequency-based services.
+      </p>
+    </section>
+
+    <!-- CONTENT -->
+    <div class="wrapper">
+      <div class="content-box">
+
+        <div class="intro-box">
+          <p>
+            By visiting or using
+            <a href="https://en-neowake.com/">
+              Neowake® Chroma
+            </a>,
+            you agree to comply with the terms outlined below. These Terms &
+            Conditions are designed to maintain a secure, transparent, and
+            reliable experience for all users and customers.
+          </p>
+        </div>
+
+        <h2>1. Acceptance of Terms</h2>
+
+        <p>
+          By accessing this website, browsing wellness content, or purchasing
+          products, you confirm that you have read, understood, and agreed to
+          these Terms & Conditions.
+        </p>
+
+        <p>
+          If you do not agree with any portion of these terms, please
+          discontinue use of the website immediately.
+        </p>
+
+        <h2>2. Website Purpose</h2>
+
+        <p>
+          Neowake® Chroma provides wellness-related information, neuro-acoustic
+          experiences, meditation support content, and frequency-based wellness
+          technology products.
+        </p>
+
+        <p>
+          All content available on this website is intended solely for
+          educational and informational purposes and should not replace
+          professional medical or psychological advice.
+        </p>
+
+        <h2>3. Product Information</h2>
+
+        <p>
+          We strive to provide accurate product descriptions, pricing,
+          specifications, and promotional information related to Neowake®
+          Chroma products and services.
+        </p>
+
+        <ul>
+          <li>
+            Product specifications and packaging may occasionally change or be
+            updated.
+          </li>
+
+          <li>
+            Promotions, pricing, and offers may change without prior notice.
+          </li>
+
+          <li>
+            Product availability may vary depending on inventory and demand.
+          </li>
+        </ul>
+
+        <h2>4. Wellness Technology Disclaimer</h2>
+
+        <p>
+          Neowake® Chroma products are intended to support relaxation,
+          mindfulness, meditation, focus enhancement, stress management, and
+          general wellness experiences.
+        </p>
+
+        <p>
+          Products and statements available on this website are not intended to
+          diagnose, treat, cure, or prevent any disease or medical condition.
+        </p>
+
+        <p>
+          Users should consult qualified healthcare professionals before using
+          frequency-based devices or wellness technologies, especially if they
+          have neurological conditions, epilepsy, or light sensitivity.
+        </p>
+
+        <h2>5. User Responsibilities</h2>
+
+        <p>
+          By using this website, you agree not to misuse the platform or engage
+          in activities that may damage website functionality or negatively
+          impact other users.
+        </p>
+
+        <ul>
+          <li>Do not attempt unauthorized access to website systems.</li>
+
+          <li>
+            Do not upload harmful software, spam, or malicious content.
+          </li>
+
+          <li>
+            Do not use website content for illegal or unauthorized purposes.
+          </li>
+        </ul>
+
+        <h2>6. Orders & Payments</h2>
+
+        <p>
+          All orders placed through the Neowake® Chroma website are subject to
+          product availability and acceptance.
+        </p>
+
+        <p>
+          Customers agree to provide accurate billing and shipping information
+          during checkout. Payments are securely processed through trusted
+          encrypted payment systems.
+        </p>
+
+        <p>
+          Neowake® Chroma reserves the right to refuse or cancel orders in
+          cases involving suspected fraud, inaccurate details, or unauthorized
+          activity.
+        </p>
+
+        <h2>7. Shipping & Delivery</h2>
+
+        <p>
+          Delivery times may vary depending on location, shipping carriers,
+          holidays, inventory levels, or operational delays.
+        </p>
+
+        <p>
+          While we aim for timely delivery, Neowake® Chroma cannot guarantee
+          exact shipping dates and is not responsible for delays caused by
+          third-party shipping providers.
+        </p>
+
+        <h2>8. Refund & Return Policy</h2>
+
+        <p>
+          Refund and satisfaction policies may vary depending on promotional
+          offers, purchase terms, or product eligibility.
+        </p>
+
+        <p>
+          Customers should review all refund and return information carefully
+          before purchasing wellness technology products.
+        </p>
+
+        <h2>9. Intellectual Property Rights</h2>
+
+        <p>
+          All website content including text, graphics, logos, images, product
+          visuals, audio content, branding, and design elements are the
+          intellectual property of Neowake® Chroma unless otherwise stated.
+        </p>
+
+        <p>
+          Unauthorized copying, reproduction, or redistribution of website
+          materials is prohibited without written permission.
+        </p>
+
+        <h2>10. Third-Party Links</h2>
+
+        <p>
+          This website may contain links to external resources, educational
+          websites, or third-party platforms for additional information.
+        </p>
+
+        <p>
+          Neowake® Chroma is not responsible for the privacy practices,
+          security, or content of external websites.
+        </p>
+
+        <div class="note-box">
+          <h3>Important User Notice</h3>
+
+          <p>
+            Neowake® Chroma encourages responsible wellness practices and
+            mindful use of neuro-acoustic technologies. Individual experiences
+            may vary depending on consistency, environment, lifestyle, and
+            personal sensitivity to frequency-based experiences.
+          </p>
+        </div>
+
+        <h2>11. Limitation of Liability</h2>
+
+        <p>
+          Neowake® Chroma shall not be held liable for direct, indirect,
+          incidental, or consequential damages related to website usage,
+          wellness product experiences, or inability to access services.
+        </p>
+
+        <p>
+          Users assume full responsibility for how they use the products,
+          technologies, and information provided on this website.
+        </p>
+
+        <h2>12. Changes to Terms & Conditions</h2>
+
+        <p>
+          We reserve the right to update, modify, or replace these Terms &
+          Conditions at any time without prior notice.
+        </p>
+
+        <p>
+          Continued use of the website after updates are published indicates
+          acceptance of the revised terms.
+        </p>
+
+        <h2>13. Contact Information</h2>
+
+        <p>
+          If you have questions regarding these Terms & Conditions, please
+          contact the Neowake® Chroma support team through the official contact
+          page.
+        </p>
+
+        <!-- Internal SEO Linking -->
+        <div class="seo-links">
+          <a href="/index">Home</a>
+          <a href="/about">About Neowake Chroma</a>
+          <a href="/privacy">Privacy Policy</a>
+          <a href="/disclaimer">Disclaimer</a>
+          <a href="/contact">Contact</a>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- FOOTER -->
+    <div class="footer">
+      © 2026 Neowake® Chroma Official. All Rights Reserved.
+    </div>
+
+  </body>
+</html>

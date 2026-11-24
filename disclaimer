@@ -1,0 +1,447 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <link
+      rel="shortcut icon"
+      href="./assets/images/Chroma-Watch-Startseite-1.webp"
+      type="image/x-icon"
+    />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Primary SEO -->
+    <title>
+      Neowake® Chroma Disclaimer | Official Wellness & Frequency Device Notice
+    </title>
+
+    <meta
+      name="description"
+      content="Read the official Neowake® Chroma Disclaimer. Learn important information about brainwave entrainment, frequency wellness devices, light therapy technology, meditation support, and website usage policies."
+    />
+
+    <meta
+      name="keywords"
+      content="Neowake Chroma disclaimer, Neowake disclaimer, brainwave entrainment disclaimer, frequency wellness device, light therapy wearable disclaimer, neuro acoustic disclaimer, meditation device notice, wellness technology disclaimer"
+    />
+
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+
+    <meta name="author" content="Neowake Chroma" />
+
+    <!-- Canonical -->
+    <link
+      rel="canonical"
+      href="https://en-neowake.com/disclaimer"
+    />
+
+    <!-- Open Graph -->
+    <meta
+      property="og:title"
+      content="Neowake® Chroma Disclaimer | Official Information"
+    />
+
+    <meta
+      property="og:description"
+      content="Official disclaimer page for Neowake® Chroma wellness technology, frequency devices, and neuro-acoustic products."
+    />
+
+    <meta property="og:type" content="website" />
+
+    <meta
+      property="og:url"
+      content="https://en-neowake.com/disclaimer"
+    />
+
+    <meta
+      property="og:image"
+      content="https://en-neowake.com/assets/images/ChromaFront-NoBG.webp"
+    />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <meta
+      name="twitter:title"
+      content="Neowake® Chroma Disclaimer"
+    />
+
+    <meta
+      name="twitter:description"
+      content="Important disclaimer and wellness information regarding Neowake® Chroma frequency technology."
+    />
+
+    <!-- Faster Indexing + Internal SEO -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Neowake Chroma Disclaimer",
+        "description": "Official disclaimer page for Neowake Chroma wellness technology and frequency devices.",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Neowake Chroma"
+        }
+      }
+    </script>
+
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Segoe UI", Arial, sans-serif;
+        background: #060b14;
+        color: #e2e8f0;
+        line-height: 1.8;
+      }
+
+      .hero {
+        background: linear-gradient(135deg, #07101d, #101d35, #152a4a);
+        padding: 90px 20px;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+      }
+
+      .hero::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: radial-gradient(
+          circle at center,
+          rgba(0, 255, 255, 0.12),
+          transparent 60%
+        );
+      }
+
+      .hero h1 {
+        font-size: 3rem;
+        font-weight: 800;
+        margin-bottom: 18px;
+        color: #ffffff;
+        position: relative;
+        z-index: 2;
+      }
+
+      .hero p {
+        max-width: 780px;
+        margin: auto;
+        font-size: 1.05rem;
+        color: #d1d5db;
+        position: relative;
+        z-index: 2;
+      }
+
+      .container {
+        max-width: 1150px;
+        margin: -50px auto 60px;
+        padding: 0 20px;
+      }
+
+      .content-box {
+        background: #0f172a;
+        border-radius: 22px;
+        padding: 45px;
+        box-shadow: 0 12px 40px rgba(0, 0, 0, 0.45);
+        border: 1px solid rgba(255, 255, 255, 0.06);
+      }
+
+      .notice-box {
+        background: rgba(0, 255, 255, 0.08);
+        border-left: 5px solid #00e5ff;
+        padding: 22px;
+        border-radius: 14px;
+        margin-bottom: 35px;
+      }
+
+      .notice-box strong {
+        color: #7dd3fc;
+      }
+
+      h2 {
+        color: #ffffff;
+        margin-top: 38px;
+        margin-bottom: 16px;
+        font-size: 1.7rem;
+      }
+
+      p {
+        margin-bottom: 18px;
+        font-size: 1rem;
+        color: #cbd5e1;
+      }
+
+      ul {
+        margin: 15px 0 25px 20px;
+      }
+
+      ul li {
+        margin-bottom: 12px;
+        color: #dbe4ee;
+      }
+
+      a {
+        color: #38bdf8;
+        text-decoration: none;
+        font-weight: 600;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      .highlight {
+        background: rgba(255, 255, 255, 0.03);
+        padding: 28px;
+        border-radius: 18px;
+        margin-top: 25px;
+        border: 1px solid rgba(255, 255, 255, 0.05);
+      }
+
+      .seo-links {
+        margin-top: 45px;
+        padding-top: 25px;
+        border-top: 1px solid rgba(255, 255, 255, 0.08);
+      }
+
+      .seo-links a {
+        margin-right: 18px;
+        display: inline-block;
+        margin-bottom: 10px;
+      }
+
+      .footer {
+        text-align: center;
+        margin-top: 50px;
+        padding-top: 25px;
+        border-top: 1px solid rgba(255, 255, 255, 0.08);
+        font-size: 14px;
+        color: #94a3b8;
+      }
+
+      @media (max-width: 768px) {
+        .hero {
+          padding: 65px 20px;
+        }
+
+        .hero h1 {
+          font-size: 2.2rem;
+        }
+
+        .content-box {
+          padding: 25px;
+        }
+
+        h2 {
+          font-size: 1.4rem;
+        }
+
+        p,
+        li {
+          font-size: 0.97rem;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+
+    <section class="hero">
+      <h1>Neowake® Chroma Disclaimer</h1>
+
+      <p>
+        Please read this disclaimer carefully before using the Neowake® Chroma
+        website, neuro-acoustic content, wearable frequency technology, or
+        wellness products. Your continued use of this website confirms your
+        acceptance of the terms outlined below.
+      </p>
+    </section>
+
+    <div class="container">
+      <div class="content-box">
+
+        <div class="notice-box">
+          <p>
+            <strong>Important Notice:</strong>
+            The information provided on this website is intended for educational
+            and informational purposes only. Neowake® Chroma products and
+            wellness technologies are not intended to diagnose, treat, cure, or
+            prevent any disease or medical condition.
+          </p>
+        </div>
+
+        <p>
+          Welcome to
+          <a href="https://en-neowake.com">
+            Neowake® Chroma Official
+          </a>.
+          We are committed to providing transparent information regarding
+          neuro-acoustic wellness technologies, brainwave entrainment tools,
+          meditation support systems, and frequency-based wearable devices.
+        </p>
+
+        <h2>1. General Information Disclaimer</h2>
+
+        <p>
+          All content published on this website, including wellness articles,
+          educational resources, product descriptions, testimonials, graphics,
+          videos, and frequency-related information, is provided for general
+          informational purposes only.
+        </p>
+
+        <p>
+          While we strive to keep all information accurate and updated,
+          Neowake® Chroma makes no guarantees regarding the completeness,
+          reliability, or scientific interpretation of any content presented on
+          this website.
+        </p>
+
+        <p>
+          Content available on this website should never be considered medical,
+          psychological, therapeutic, or healthcare advice. Users should always
+          consult qualified healthcare professionals before making health,
+          lifestyle, or wellness decisions.
+        </p>
+
+        <h2>2. Wellness Technology Disclaimer</h2>
+
+        <p>
+          Neowake® Chroma products are designed to support meditation,
+          relaxation, focus enhancement, mindfulness, stress management, sleep
+          support, and overall wellness through frequency-based experiences and
+          neuro-acoustic stimulation technologies.
+        </p>
+
+        <div class="highlight">
+          <ul>
+            <li>
+              Always consult a licensed healthcare professional before using
+              wellness technologies or frequency-based devices.
+            </li>
+
+            <li>
+              Do not use Neowake® Chroma products as a replacement for
+              professional medical treatment or psychological care.
+            </li>
+
+            <li>
+              Individuals with epilepsy, neurological conditions, or light
+              sensitivity should consult a healthcare provider before use.
+            </li>
+
+            <li>
+              Pregnant or nursing individuals should seek professional guidance
+              prior to using frequency or light-based wellness products.
+            </li>
+
+            <li>
+              Stop using the product immediately if discomfort or unusual
+              reactions occur.
+            </li>
+          </ul>
+        </div>
+
+        <h2>3. Product Results Disclaimer</h2>
+
+        <p>
+          Individual experiences with Neowake® Chroma products may vary based
+          on lifestyle, sensitivity, stress levels, sleep quality, consistency
+          of use, and personal wellness factors.
+        </p>
+
+        <p>
+          Testimonials and customer reviews displayed on this website reflect
+          personal experiences and opinions. These testimonials are not intended
+          to guarantee identical outcomes for every user.
+        </p>
+
+        <h2>4. Scientific & Regulatory Disclaimer</h2>
+
+        <p>
+          Statements regarding Neowake® Chroma wellness technologies have not
+          been evaluated by the Food and Drug Administration (FDA) or similar
+          regulatory agencies unless explicitly stated otherwise.
+        </p>
+
+        <p>
+          Neowake® Chroma products are intended solely for wellness,
+          mindfulness, relaxation, meditation support, and lifestyle
+          enhancement purposes.
+        </p>
+
+        <h2>5. External Links Disclaimer</h2>
+
+        <p>
+          This website may contain links to third-party resources, wellness
+          references, educational platforms, or external websites for
+          informational purposes.
+        </p>
+
+        <p>
+          Neowake® Chroma does not control or assume responsibility for the
+          content, security, or privacy practices of external websites.
+        </p>
+
+        <h2>6. Limitation of Liability</h2>
+
+        <p>
+          By using this website and its products, you agree that Neowake®
+          Chroma, its owners, affiliates, partners, employees, and content
+          providers shall not be held responsible for any direct, indirect,
+          incidental, or consequential damages resulting from:
+        </p>
+
+        <ul>
+          <li>Use or misuse of wellness products or technologies</li>
+          <li>Reliance on website information</li>
+          <li>Interpretation of frequency-based content</li>
+          <li>Technical interruptions or website issues</li>
+          <li>Personal wellness or lifestyle decisions</li>
+        </ul>
+
+        <h2>7. Website Content Updates</h2>
+
+        <p>
+          Neowake® Chroma reserves the right to modify, update, or remove any
+          website content, policies, or disclaimers at any time without prior
+          notice.
+        </p>
+
+        <h2>8. User Responsibility</h2>
+
+        <p>
+          By accessing this website and using Neowake® Chroma products, you
+          acknowledge that you are personally responsible for your wellness
+          choices and understand that frequency-based technologies should be
+          used as part of a balanced and mindful lifestyle.
+        </p>
+
+        <!-- Internal Linking SEO Boost -->
+        <div class="seo-links">
+          <a href="/">Home</a>
+          <a href="/about">About Neowake Chroma</a>
+          <a href="/privacy">Privacy Policy</a>
+          <a href="/terms">Terms & Conditions</a>
+          <a href="/contact">Contact</a>
+        </div>
+
+        <div class="footer">
+          <p>
+            © 2026 Neowake® Chroma Official. All Rights Reserved.
+          </p>
+        </div>
+
+      </div>
+    </div>
+
+  </body>
+</html>

@@ -1,0 +1,486 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- SEO -->
+    <title>
+      Neowake® Chroma Privacy Policy | Official Wellness Technology Website
+    </title>
+
+    <meta
+      name="description"
+      content="Read the official Neowake® Chroma Privacy Policy to understand how your personal information is collected, protected, and used while accessing our wellness technology website and neuro-acoustic products."
+    />
+
+    <meta
+      name="keywords"
+      content="Neowake Chroma privacy policy, Neowake privacy, brainwave entrainment privacy policy, neuro acoustic technology privacy, frequency device data protection, wellness technology website privacy"
+    />
+
+    <meta
+      name="robots"
+      content="index, follow, max-image-preview:large"
+    />
+
+    <meta name="author" content="Neowake Chroma" />
+
+    <!-- Canonical -->
+    <link
+      rel="canonical"
+      href="https://en-neowake.com/privacy"
+    />
+
+    <!-- Open Graph -->
+    <meta
+      property="og:title"
+      content="Neowake® Chroma Privacy Policy"
+    />
+
+    <meta
+      property="og:description"
+      content="Official privacy policy for Neowake® Chroma wellness technology and neuro-acoustic products."
+    />
+
+    <meta property="og:type" content="website" />
+
+    <meta
+      property="og:url"
+      content="https://en-neowake.com/privacy"
+    />
+
+    <meta
+      property="og:image"
+      content="https://en-neowake.com/assets/images/ChromaFront-NoBG.webp"
+    />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <meta
+      name="twitter:title"
+      content="Neowake® Chroma Privacy Policy"
+    />
+
+    <meta
+      name="twitter:description"
+      content="Learn how Neowake® Chroma protects your data and privacy."
+    />
+
+    <!-- Faster SEO Crawling -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+
+    <!-- Favicon -->
+    <link
+      rel="shortcut icon"
+      href="./assets/images/Chroma-Watch-Startseite-1.webp"
+      type="image/x-icon"
+    />
+
+    <!-- Schema -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "PrivacyPolicy",
+        "name": "Neowake Chroma Privacy Policy",
+        "url": "https://en-neowake.com/privacy",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Neowake Chroma"
+        }
+      }
+    </script>
+
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Segoe UI", Arial, sans-serif;
+        background: #060b14;
+        color: #e2e8f0;
+        line-height: 1.8;
+      }
+
+      .hero {
+        background: linear-gradient(135deg, #07101d, #101d35, #152a4a);
+        padding: 90px 20px;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+      }
+
+      .hero::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: radial-gradient(
+          circle at center,
+          rgba(0, 255, 255, 0.12),
+          transparent 60%
+        );
+      }
+
+      .hero h1 {
+        font-size: 3rem;
+        margin-bottom: 18px;
+        font-weight: 800;
+        color: #ffffff;
+        position: relative;
+        z-index: 2;
+      }
+
+      .hero p {
+        max-width: 780px;
+        margin: auto;
+        font-size: 1.05rem;
+        color: #d1d5db;
+        position: relative;
+        z-index: 2;
+      }
+
+      .wrapper {
+        max-width: 1150px;
+        margin: -50px auto 60px;
+        padding: 0 20px;
+      }
+
+      .content-box {
+        background: #0f172a;
+        border-radius: 22px;
+        padding: 45px;
+        box-shadow: 0 12px 40px rgba(0, 0, 0, 0.45);
+        border: 1px solid rgba(255, 255, 255, 0.06);
+      }
+
+      .intro-box {
+        background: rgba(0, 255, 255, 0.08);
+        border-left: 5px solid #00e5ff;
+        padding: 22px;
+        border-radius: 14px;
+        margin-bottom: 35px;
+      }
+
+      .intro-box p {
+        color: #dbeafe;
+      }
+
+      h2 {
+        color: #ffffff;
+        margin-top: 40px;
+        margin-bottom: 15px;
+        font-size: 1.7rem;
+        font-weight: 700;
+      }
+
+      p {
+        margin-bottom: 18px;
+        color: #cbd5e1;
+        font-size: 1rem;
+      }
+
+      ul {
+        padding-left: 22px;
+        margin-bottom: 22px;
+      }
+
+      ul li {
+        margin-bottom: 12px;
+        color: #dbe4ee;
+      }
+
+      a {
+        color: #38bdf8;
+        text-decoration: none;
+        font-weight: 600;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      .highlight-box {
+        background: rgba(255, 255, 255, 0.03);
+        border-radius: 18px;
+        padding: 28px;
+        margin-top: 30px;
+        border: 1px solid rgba(255, 255, 255, 0.05);
+      }
+
+      .highlight-box h3 {
+        color: #ffffff;
+        margin-bottom: 14px;
+        font-size: 1.5rem;
+      }
+
+      .seo-links {
+        margin-top: 45px;
+        padding-top: 25px;
+        border-top: 1px solid rgba(255, 255, 255, 0.08);
+      }
+
+      .seo-links a {
+        margin-right: 18px;
+        display: inline-block;
+        margin-bottom: 10px;
+      }
+
+      .footer {
+        text-align: center;
+        padding: 35px 20px;
+        color: #94a3b8;
+        font-size: 14px;
+      }
+
+      @media (max-width: 768px) {
+        .hero {
+          padding: 65px 20px;
+        }
+
+        .hero h1 {
+          font-size: 2.2rem;
+        }
+
+        .hero p {
+          font-size: 1rem;
+        }
+
+        .content-box {
+          padding: 28px 22px;
+        }
+
+        h2 {
+          font-size: 1.4rem;
+        }
+
+        p,
+        li {
+          font-size: 0.97rem;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+
+    <!-- HERO -->
+    <section class="hero">
+      <h1>Neowake® Chroma Privacy Policy</h1>
+
+      <p>
+        Your privacy matters to us. This Privacy Policy explains how
+        Neowake® Chroma collects, protects, and uses your information while
+        accessing our wellness technology platform, neuro-acoustic experiences,
+        and wearable frequency products.
+      </p>
+    </section>
+
+    <!-- CONTENT -->
+    <div class="wrapper">
+      <div class="content-box">
+
+        <div class="intro-box">
+          <p>
+            At
+            <a href="https://en-neowake.com/">
+              Neowake® Chroma
+            </a>,
+            we are committed to protecting your privacy and maintaining
+            transparency regarding how your information is collected and used.
+            We follow responsible practices to provide a safe, secure, and
+            user-friendly wellness experience.
+          </p>
+        </div>
+
+        <h2>1. Information We Collect</h2>
+
+        <p>
+          When visiting the Neowake® Chroma website, we may collect certain
+          information to improve website functionality, customer experience,
+          product support, and order processing.
+        </p>
+
+        <ul>
+          <li>
+            Personal information such as your name, email address, billing
+            details, and shipping information during purchases.
+          </li>
+
+          <li>
+            Technical information including browser type, IP address, device
+            information, operating system, and on-site activity.
+          </li>
+
+          <li>
+            Information voluntarily submitted through forms, subscriptions,
+            customer support requests, or wellness newsletters.
+          </li>
+        </ul>
+
+        <h2>2. How We Use Your Information</h2>
+
+        <p>
+          Neowake® Chroma uses collected information to improve user
+          experience, provide customer support, and optimize wellness product
+          services.
+        </p>
+
+        <ul>
+          <li>To securely process and fulfill customer orders.</li>
+
+          <li>
+            To provide updates regarding purchases, support requests, shipping,
+            and wellness-related announcements.
+          </li>
+
+          <li>
+            To improve website performance, user experience, and product
+            functionality.
+          </li>
+
+          <li>
+            To deliver educational content, promotions, and wellness updates
+            when users voluntarily subscribe.
+          </li>
+        </ul>
+
+        <h2>3. Cookies & Tracking Technologies</h2>
+
+        <p>
+          Our website may use cookies and similar technologies to personalize
+          browsing experiences, analyze traffic, and improve website speed and
+          usability.
+        </p>
+
+        <p>
+          Cookies help us understand visitor interactions and optimize website
+          performance for better navigation and faster access to important
+          content.
+        </p>
+
+        <p>
+          Users may disable cookies through browser settings if preferred,
+          although some website features may not function properly afterward.
+        </p>
+
+        <h2>4. Payment & Transaction Security</h2>
+
+        <p>
+          Protecting financial information is extremely important to us.
+          Neowake® Chroma uses secure checkout technologies and encrypted
+          payment systems to safeguard customer transactions.
+        </p>
+
+        <p>
+          Sensitive payment information is processed through trusted third-party
+          payment providers using industry-standard security practices.
+        </p>
+
+        <h2>5. Third-Party Services</h2>
+
+        <p>
+          We may work with trusted third-party providers for analytics,
+          marketing, payment processing, customer support, and shipping
+          services.
+        </p>
+
+        <p>
+          These providers only receive information necessary to perform their
+          services and are expected to maintain appropriate confidentiality and
+          security standards.
+        </p>
+
+        <p>
+          Neowake® Chroma is not responsible for the privacy practices of
+          external websites linked from our pages.
+        </p>
+
+        <h2>6. Email Communication</h2>
+
+        <p>
+          Users who subscribe to our newsletter may receive updates about
+          wellness technology, meditation support content, new product launches,
+          promotions, and educational frequency-related resources.
+        </p>
+
+        <p>
+          Users may unsubscribe from marketing communications at any time using
+          the unsubscribe link provided in emails.
+        </p>
+
+        <h2>7. Data Protection & Security</h2>
+
+        <p>
+          Neowake® Chroma follows modern security practices to help protect user
+          information from unauthorized access, misuse, or disclosure.
+        </p>
+
+        <p>
+          While we implement reasonable security safeguards, no online platform
+          or electronic storage system can be guaranteed completely secure.
+        </p>
+
+        <div class="highlight-box">
+          <h3>Your Privacy Matters</h3>
+
+          <p>
+            We believe every user deserves transparency, security, and control
+            over personal information. Neowake® Chroma is committed to
+            maintaining a trustworthy and secure wellness platform for all
+            visitors and customers.
+          </p>
+        </div>
+
+        <h2>8. Children's Privacy</h2>
+
+        <p>
+          Neowake® Chroma products and services are intended for adults only.
+          Our website is not directed toward children under 18 years of age,
+          and we do not knowingly collect information from minors.
+        </p>
+
+        <h2>9. Updates to This Privacy Policy</h2>
+
+        <p>
+          We may update this Privacy Policy periodically to reflect operational,
+          legal, technological, or business changes.
+        </p>
+
+        <p>
+          Continued use of the website following updates indicates acceptance
+          of the revised Privacy Policy.
+        </p>
+
+        <h2>10. Contact Information</h2>
+
+        <p>
+          If you have questions regarding this Privacy Policy or how your data
+          is handled, please contact the Neowake® Chroma support team through
+          the official website.
+        </p>
+
+        <!-- Internal SEO Linking -->
+        <div class="seo-links">
+          <a href="/">Home</a>
+          <a href="/about">About Neowake Chroma</a>
+          <a href="/disclaimer">Disclaimer</a>
+          <a href="/terms">Terms & Conditions</a>
+          <a href="/contact">Contact</a>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- FOOTER -->
+    <div class="footer">
+      © 2026 Neowake® Chroma Official. All Rights Reserved.
+    </div>
+
+  </body>
+</html>

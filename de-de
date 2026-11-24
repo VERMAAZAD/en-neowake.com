@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Neowake Chroma Watch™ Deutschland | Offizielle Website</title>
+  <meta name="description" content="Entdecken Sie die Neowake Chroma Watch™ in Deutschland. Innovative Lichttherapie mit modernster Photobiomodulation zur Unterstützung von Energie, Fokus und Wohlbefinden. Jetzt auf der offiziellen Website informieren.">
+
+  <meta name="keywords" content="Neowake Chroma Watch Deutschland, Neowake Chroma Watch, Chroma Watch Deutschland, Lichttherapie Armbanduhr, Photobiomodulation, Laserlichttherapie, Rotlichttherapie, Wellness Technologie, Neowake Official Website">
+
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+  <meta name="author" content="en-neowake.com">
+  <meta name="language" content="de-DE">
+
+  <meta name="revisit-after" content="7 days">
+
+  <meta name="distribution" content="global">
+
+  <meta name="rating" content="general">
+
+  <meta name="theme-color" content="#000000">
+
+  <meta name="generator" content="HTML5">
+
+  <link rel="canonical" href="https://en-neowake.com/de-de">
+
+  <link rel="alternate" hreflang="de-DE" href="https://en-neowake.com/de-de">
+  <link rel="alternate" hreflang="en" href="https://en-neowake.com/">
+  <link rel="alternate" hreflang="x-default" href="https://en-neowake.com/">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="en-neowake">
+  <meta property="og:locale" content="de_DE">
+  <meta property="og:title" content="Neowake Chroma Watch™ Deutschland | Offizielle Website">
+  <meta property="og:description" content="Erleben Sie innovative Lichttherapie mit der Neowake Chroma Watch™. Moderne Photobiomodulation für Energie, Fokus und Wohlbefinden.">
+
+  <meta property="og:url" content="https://en-neowake.com/de-de">
+
+  <meta property="og:image" content="https://en-neowake.com/assets/images/Chroma-Watch-Startseite-1.webp">
+  <meta property="og:image:secure_url" content="https://en-neowake.com/assets/images/Chroma-Watch-Startseite-1.webp">
+
+  <meta property="og:image:alt" content="Neowake Chroma Watch Deutschland">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Neowake Chroma Watch™ Deutschland">
+  <meta name="twitter:description" content="Innovative Lichttherapie und Photobiomodulation für mehr Energie und Wohlbefinden.">
+  <meta name="twitter:image" content="https://en-neowake.com/assets/images/Chroma-Watch-Startseite-1.webp">
+  <meta name="twitter:image:alt" content="Neowake Chroma Watch Deutschland">
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="mobile-web-app-capable" content="yes">
+
+  <!-- Icons -->
+  <link rel="icon" href="https://en-neowake.com/assets/images/Chroma-Watch-Startseite-1.webp">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//fonts.gstatic.com">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="./assets/css/page-styles.css">
+
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"WebSite",
+    "name":"en-neowake",
+    "url":"https://en-neowake.com/",
+    "inLanguage":"de-DE",
+    "potentialAction":{
+      "@type":"SearchAction",
+      "target":"https://en-neowake.com/?s={search_term_string}",
+      "query-input":"required name=search_term_string"
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"WebPage",
+    "@id":"https://en-neowake.com/de-de/#webpage",
+    "url":"https://en-neowake.com/de-de",
+    "name":"Neowake Chroma Watch™ Deutschland | Offizielle Website",
+    "description":"Entdecken Sie die Neowake Chroma Watch™ in Deutschland – innovative Lichttherapie und Photobiomodulation für Ihr Wohlbefinden.",
+    "inLanguage":"de-DE",
+    "isPartOf":{
+      "@id":"https://en-neowake.com/#website"
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Product",
+    "@id":"https://en-neowake.com/de-de/#product",
+    "name":"Neowake Chroma Watch™",
+    "image":[
+      "https://en-neowake.com/assets/images/Chroma-Watch-Startseite-1.webp"
+    ],
+    "description":"Neowake Chroma Watch™ ist ein tragbares Lichttherapie-Gerät mit mehreren Lichtwellenlängen zur Unterstützung des allgemeinen Wohlbefindens.",
+    "brand":{
+      "@type":"Brand",
+      "name":"Neowake"
+    },
+    "category":"Wearable Light Therapy Device",
+    "url":"https://en-neowake.com/de-de",
+    "sku":"CHROMA-WATCH",
+    "offers":{
+      "@type":"Offer",
+      "url":"https://en-neowake.com/de-de",
+      "price":"1399",
+      "priceCurrency":"EUR",
+      "availability":"https://schema.org/InStock",
+      "itemCondition":"https://schema.org/NewCondition"
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"BreadcrumbList",
+    "itemListElement":[
+      {
+        "@type":"ListItem",
+        "position":1,
+        "name":"Home",
+        "item":"https://en-neowake.com/"
+      },
+      {
+        "@type":"ListItem",
+        "position":2,
+        "name":"Deutschland",
+        "item":"https://en-neowake.com/de-de"
+      }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {
+    "@type":"Question",
+    "name":"Was ist die Neowake Chroma Watch™?",
+    "acceptedAnswer":{
+      "@type":"Answer",
+      "text":"Die Neowake Chroma Watch™ ist ein tragbares Lichttherapie-Gerät mit mehreren Lichtwellenlängen zur Unterstützung des allgemeinen Wohlbefindens."
+    }
+    },
+    {
+    "@type":"Question",
+    "name":"Kann die Chroma Watch täglich verwendet werden?",
+    "acceptedAnswer":{
+      "@type":"Answer",
+      "text":"Befolgen Sie die Nutzungshinweise des Herstellers für die empfohlene Anwendungsdauer und Häufigkeit."
+    }
+    },
+    {
+    "@type":"Question",
+    "name":"Ist die Chroma Watch einfach zu bedienen?",
+    "acceptedAnswer":{
+      "@type":"Answer",
+      "text":"Sie ist für die Nutzung am Handgelenk konzipiert und wird mit Anweisungen des Herstellers geliefert."
+    }
+    }
+  ]
+  }
+  </script>
+</head>
+
+<body>
+  <header>
+    <div class="nav-inner">
+      <div class="logo">
+        <span class="word">Chroma Watch</span>
+        <span class="sub">unabhängige Produktanalyse</span>
+      </div>
+      <ul class="nav-links">
+        <li><a href="#funktionsweise">Funktionsweise</a></li>
+        <li><a href="#wissenschaft">Wissenschaft</a></li>
+        <li><a href="#lieferumfang">Lieferumfang</a></li>
+        <li><a href="#fuer-wen">Für wen?</a></li>
+        <li><a href="#preis">Preis</a></li>
+        <li><a href="#faq">FAQ</a></li>
+      </ul>
+      <a href="https://en-neowake.com/order" target="_blank" rel="nofollow sponsored" class="nav-cta">
+        Zur offiziellen Seite <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:11px"></i>
+      </a>
+      <button class="nav-burger" id="navBurger"><i class="fa-solid fa-bars"></i></button>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <div class="eyebrow">Produktanalyse · Stand Juli 2026</div>
+        <h1>Neowake Chroma Watch™ Deutschland - Offizielle Website & Lichttherapie</h1>
+          <p class="hero-lede">
+        Die <strong>Neowake Chroma Watch™</strong> ist ein innovatives, tragbares Lichttherapie-Gerät, das moderne
+        <strong>Photobiomodulation</strong> mit mehreren präzisen Lichtspektren kombiniert. Entwickelt für Menschen,
+        die ihr allgemeines Wohlbefinden, ihre Regeneration und ihren Alltag mit moderner Lichttechnologie unterstützen
+        möchten. Auf dieser Seite erfahren Sie alles über die Funktionsweise, die verwendete Technologie, den
+        Lieferumfang, aktuelle wissenschaftliche Erkenntnisse sowie Preis und Bestellmöglichkeiten in Deutschland.
+      </p>
+        <div class="hero-facts">
+          <span class="fact-chip"><i class="fa-solid fa-circle-dot"></i> 4 Wellenlängen</span>
+          <span class="fact-chip"><i class="fa-solid fa-bolt"></i> 1.600 mAh Akku</span>
+          <span class="fact-chip"><i class="fa-solid fa-clock"></i> 10–60 Min. Anwendung</span>
+          <span class="fact-chip"><i class="fa-solid fa-rotate-left"></i> 30 Tage Rückgaberecht</span>
+        </div>
+        <div class="hero-ctas">
+          <a href="https://en-neowake.com/order" target="_blank" rel="nofollow sponsored" class="btn-primary">
+            Aktuellen Preis ansehen <i class="fa-solid fa-arrow-right"></i>
+          </a>
+          <a href="https://en-neowake.com/order" class="btn-ghost">Zur Studienlage <i class="fa-solid fa-chevron-down"
+              style="font-size:11px"></i></a>
+        </div>
+      </div>
+
+      <div class="device-card">
+        <div class="watch-illustration">
+          <img src="https://en-neowake.com/assets/images/Chroma-Watch-Startseite-1.webp" alt="Chroma-Watch-Startseite">
+        </div>
+        <div class="spectrum spectrum-thin" style="margin-bottom:22px"></div>
+        <div class="device-spec-list">
+          <div class="device-spec-row"><span class="k">Spektralfarben</span><span class="v">Blau/Grün/Gelb/Rot</span>
+          </div>
+          <div class="device-spec-row"><span class="k">Lasermedium</span><span class="v">GaAs-Halbleiter</span></div>
+          <div class="device-spec-row"><span class="k">Garantie</span><span class="v">2 Jahre</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <div class="spectrum"></div>
+    <div class="spectrum-labels"><span>450 nm Blau</span><span>532 nm Grün</span><span>589 nm Gelb</span><span>650 nm
+        Rot</span></div>
+  </div>
+
+  <section class="section" id="funktionsweise">
+    <div class="wrap">
+      <div class="s-head">
+        <div class="eyebrow">Funktionsweise</div>
+        <h2>Wie die Chroma Watch technisch funktioniert</h2>
+        <p>Bevor man bewertet, ob ein Gerät hält, was es verspricht, muss man verstehen, was es überhaupt tut. Hier
+          trennen wir Herstellerangaben von dem, was unabhängig nachvollziehbar ist.</p>
+      </div>
+
+      <div class="cve-card">
+        <div class="cve-row">
+          <div class="cve-label cve-claim"><i class="fa-solid fa-bullhorn"></i> Hersteller sagt</div>
+          <div class="cve-text">Die Chroma Watch wird am Handgelenk getragen, direkt über der Arteria radialis. Per
+            Knopfdruck strahlen die Dioden eine oder mehrere von vier Spektralfarben in die Haut ein. Intensität und
+            Anwendungsdauer lassen sich am Display einstellen. Zubehör erlaubt zusätzlich eine Anwendung an Nase und
+            Ohr.</div>
+        </div>
+        <div class="cve-divider"></div>
+        <div class="cve-row">
+          <div class="cve-label cve-evidence"><i class="fa-solid fa-flask"></i> Technisch nachvollziehbar</div>
+          <div class="cve-text">Dass Licht bestimmter Wellenlängen wenige Millimeter in Haut und oberflächliches Gewebe
+            eindringt, ist physikalisch unstrittig und Grundlage der Photobiomodulation (PBM), auch
+            Low-Level-Lasertherapie genannt. Diese Technologie wird seit Jahrzehnten in der Physiotherapie und
+            Dermatologie für lokale Anwendungen (z. B. Wundheilung, Hautbehandlung) eingesetzt — meist mit deutlich
+            höherer Leistungsdichte und unter klinischer Aufsicht als bei einem Wellness-Wearable.</div>
+        </div>
+      </div>
+
+      <div class="eyebrow" style="margin-top:40px">Die vier Spektralfarben im Überblick</div>
+      <div class="mech-grid">
+        <div class="mech-step">
+          <div class="swatch" style="background:#3A6FB5"></div>
+          <div class="wl">450 nm · Blau</div>
+          <h4>Blaues Licht</h4>
+          <p>Wird in der Hautpflege u. a. zur Behandlung oberflächlicher Hautunreinheiten genutzt; antibakterielle
+            Effekte sind für bestimmte Anwendungen dokumentiert.</p>
+        </div>
+        <div class="mech-step">
+          <div class="swatch" style="background:#4E9A6B"></div>
+          <div class="wl">532 nm · Grün</div>
+          <h4>Grünes Licht</h4>
+          <p>In der PBM-Forschung weniger umfangreich untersucht als Rot/Nah-Infrarot; Herstellerangaben zu Wirkungen
+            sind hier am wenigsten durch Studien gestützt.</p>
+        </div>
+        <div class="mech-step">
+          <div class="swatch" style="background:#D6A82C"></div>
+          <div class="wl">589 nm · Gelb</div>
+          <h4>Gelbes Licht</h4>
+          <p>Wird vereinzelt in der Lichttherapie bei Hautrötungen eingesetzt; die Evidenzlage ist dünner als bei Rot-
+            und Infrarotlicht.</p>
+        </div>
+        <div class="mech-step">
+          <div class="swatch" style="background:#C24A3E"></div>
+          <div class="wl">650 nm · Rot</div>
+          <h4>Rotes Licht</h4>
+          <p>Die am besten erforschte Wellenlänge der PBM — Rotlichttherapie hat die umfangreichste Studienbasis, u. a.
+            zu Hautbild und oberflächlicher Durchblutung.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="wissenschaft" style="background:var(--parchment-deep)">
+    <div class="wrap">
+      <div class="s-head">
+        <div class="eyebrow">Wissenschaft</div>
+        <h2>Was die zitierte Studie wirklich zeigt und was nicht</h2>
+        <p>Neowake beruft sich in der eigenen Kommunikation auf eine konkrete Studie. Wir haben uns angesehen, was diese
+          Studie methodisch leisten kann.</p>
+      </div>
+
+      <div class="two-col">
+        <div class="study-card">
+          <span class="study-tag">Zitierte Quelle</span>
+          <h4>Litscher & Litscher (2016) — "A Laser Watch for Simultaneous Laser Blood Irradiation and Laser Acupuncture
+            at the Wrist"</h4>
+          <p>Diese Pilotstudie untersuchte, ob ein laserbasiertes Uhren-Konzept die Mikrozirkulation am Handgelenk
+            kurzfristig verändert, und fand nach rund 20 Minuten Anwendung eine messbare Verbesserung der Durchblutung
+            in den untersuchten Parametern.</p>
+          <p style="margin-top:10px">Wichtig für die Einordnung: Eine verbesserte Mikrozirkulation an der Messstelle ist
+            ein physiologisch plausibler Kurzzeiteffekt sie ist aber nicht gleichbedeutend mit den breiteren
+            Vitalitäts-, Schlaf- oder Energieversprechen, die in der Produktvermarktung häufig daraus abgeleitet werden.
+          </p>
+        </div>
+
+        <div class="study-card">
+          <span class="study-tag">Methodische Grenzen</span>
+          <h4>Worauf man bei dieser Evidenzbasis achten sollte</h4>
+          <ul class="limits-list">
+            <li><i class="fa-solid fa-circle"></i> Es handelt sich um eine Pilotstudie mit kleiner Stichprobe, kein groß
+              angelegtes, unabhängig repliziertes RCT.</li>
+            <li><i class="fa-solid fa-circle"></i> Gemessen wurde ein kurzfristiger Mikrozirkulations-Parameter, keine
+              langfristigen gesundheitlichen Endpunkte.</li>
+            <li><i class="fa-solid fa-circle"></i> Es ist nicht öffentlich nachvollziehbar, ob das genaue Studiengerät
+              dem aktuell verkauften Chroma-Watch-Modell entspricht.</li>
+            <li><i class="fa-solid fa-circle"></i> Der Hersteller selbst weist in eigenen Unterlagen darauf hin, dass
+              schulmedizinische Belege für die spezifische Produktanwendung fehlen.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="cve-card" style="margin-top:28px">
+        <div class="cve-row">
+          <div class="cve-label cve-evidence"><i class="fa-solid fa-scale-balanced"></i> Unsere Einordnung</div>
+          <div class="cve-text">Photobiomodulation als Forschungsfeld ist real und in bestimmten klinischen Kontexten
+            (z. B. Wundheilung, manche Hautindikationen) gut dokumentiert. Die spezifischen Wohlbefindens-Versprechen
+            eines Consumer-Wearables wie der Chroma Watch mehr Energie, besserer Schlaf, gesteigerte Vitalität stützen sich dagegen überwiegend auf Erfahrungsberichte und eine einzelne Pilotstudie, nicht auf große,
+            unabhängige klinische Untersuchungen. Das macht die Effekte nicht unplausibel, aber auch nicht belegt im
+            Sinne evidenzbasierter Medizin.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="pkg-section" id="lieferumfang">
+    <div class="wrap">
+      <div class="s-head">
+        <div class="eyebrow" style="color:var(--amber)">Lieferumfang</div>
+        <h2>Was im Paket enthalten ist</h2>
+        <p>Die Chroma Watch wird als Basisgerät mit umfangreichem Zubehör ausgeliefert.</p>
+      </div>
+      <div class="pkg-grid">
+        <div class="pkg-item"><i class="fa-solid fa-watch"></i>
+          <h5>1× Chroma Watch</h5>
+          <p>Basisgerät mit Display, Akku und Diodenmodul.</p>
+        </div>
+        <div class="pkg-item"><i class="fa-solid fa-square"></i>
+          <h5>Chroma Pad Mini</h5>
+          <p>Größeres Anwendungspad für die äußerliche Flächenbestrahlung.</p>
+        </div>
+        <div class="pkg-item"><i class="fa-solid fa-head-side-mask"></i>
+          <h5>Nasen-Applikator</h5>
+          <p>Für intranasale Anwendung — siehe Sicherheitshinweise unten.</p>
+        </div>
+        <div class="pkg-item"><i class="fa-solid fa-ear-listen"></i>
+          <h5>Ohren-Applikator</h5>
+          <p>Für intraaurikuläre Anwendung — siehe Sicherheitshinweise unten.</p>
+        </div>
+        <div class="pkg-item"><i class="fa-solid fa-compact-disc"></i>
+          <h5>Source Code Album</h5>
+          <p>Begleitende Audio-/Meditationsinhalte des Herstellers.</p>
+        </div>
+        <div class="pkg-item"><i class="fa-solid fa-plug"></i>
+          <h5>Y-Kabel & Netzteil</h5>
+          <p>Ermöglicht parallele Nutzung zweier Applikatoren; EU-Stecker (Typ F).</p>
+        </div>
+        <div class="pkg-item"><i class="fa-solid fa-glasses"></i>
+          <h5>Schutzbrille</h5>
+          <p>Für den sicheren Umgang mit den Laserdioden während der Anwendung.</p>
+        </div>
+        <div class="pkg-item"><i class="fa-solid fa-box"></i>
+          <h5>Aufbewahrung & Anleitung</h5>
+          <p>2× Aufbewahrungsboxen, Schutzkappen, gedruckte Gebrauchsanleitung.</p>
+        </div>
+      </div>
+      <p class="pkg-note">Hinweis: Lieferumfang und Zubehör können sich je nach aktueller Aktion ändern. Verbindlich ist
+        die Angabe auf der offiziellen neowake-Bestellseite zum Zeitpunkt des Kaufs.</p>
+    </div>
+  </section>
+
+  <section class="section" id="fuer-wen">
+    <div class="wrap">
+      <div class="s-head">
+        <div class="eyebrow">Eignung</div>
+        <h2>Für wen die Chroma Watch infrage kommt und für wen nicht</h2>
+        <p>Da ein lasergestütztes Gerät genutzt wird, ist eine ehrliche Einordnung der Zielgruppe wichtiger als bei
+          einem gewöhnlichen Wellness-Produkt.</p>
+      </div>
+
+      <div class="suit-grid">
+        <div class="suit-card suit-good">
+          <h3><i class="fa-solid fa-circle-check"></i> Geeignet für</h3>
+          <ul>
+            <li><i class="fa-solid fa-check"></i> Menschen, die sich bereits mit Lichttherapie/PBM beschäftigen und ein
+              mobiles, am Körper tragbares Gerät suchen.</li>
+            <li><i class="fa-solid fa-check"></i> Personen ohne medizinische Kontraindikationen, die ein höherpreisiges
+              Wellness-Produkt mit Selbstzahlung in Erwägung ziehen und realistische Erwartungen an die Studienlage
+              haben.</li>
+            <li><i class="fa-solid fa-check"></i> Nutzer, die Wert auf das 30-tägige Rückgaberecht legen, um das Gerät
+              risikoarm zu testen.</li>
+          </ul>
+        </div>
+        <div class="suit-card suit-caution">
+          <h3><i class="fa-solid fa-triangle-exclamation"></i> Vorsicht / ärztliche Rücksprache</h3>
+          <ul>
+            <li><i class="fa-solid fa-circle-exclamation"></i> Schwangerschaft, Epilepsie oder bekannte
+              Lichtempfindlichkeit (Photosensibilität).</li>
+            <li><i class="fa-solid fa-circle-exclamation"></i> Einnahme photosensibilisierender Medikamente (z. B.
+              bestimmte Antibiotika, Retinoide).</li>
+            <li><i class="fa-solid fa-circle-exclamation"></i> Bestehende Augenerkrankungen — Laserlicht erfordert
+              grundsätzlich sorgfältigen Umgang, insbesondere bei Applikatoren in Augennähe.</li>
+            <li><i class="fa-solid fa-circle-exclamation"></i> Personen mit Herzschrittmacher oder anderen aktiven
+              Implantaten sollten vorab Rücksprache mit dem behandelnden Arzt halten.</li>
+          </ul>
+          <div class="suit-warn-box">Dieser Abschnitt ersetzt keine ärztliche Beratung. Bei Unsicherheit vor dem Kauf
+            grundsätzlich Rücksprache mit einer Ärztin oder einem Arzt halten.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="preis" style="background:var(--parchment-deep)">
+    <div class="wrap">
+      <div class="s-head">
+        <div class="eyebrow">Preis</div>
+        <h2>Was kostet die Chroma Watch?</h2>
+      </div>
+      <div class="price-card">
+        <div class="price-left">
+          <h3>neowake® Chroma Watch — Basis-Set</h3>
+          <p>Inklusive Pad Mini, Nasen- und Ohrapplikator, Schutzbrille und Zubehör laut aktueller Herstellerangabe.</p>
+        </div>
+        <div class="price-right">
+          <div class="price-tag">Listenpreis (Herstellerangabe)</div>
+          <div class="price-amount">ca. 1.399 €</div>
+          <div class="price-terms">
+            <span class="term-chip">30 Tage Rückgaberecht</span>
+            <span class="term-chip">2 Jahre Garantie</span>
+          </div>
+        </div>
+      </div>
+      <p style="margin-top:18px;font-size:14px;color:var(--muted)">Preise und Aktionsangebote ändern sich regelmäßig und
+        können je nach Bundle variieren. Den aktuell gültigen Preis sehen Sie ausschließlich auf der <a
+          href="https://en-neowake.com/order" target="_blank" rel="nofollow sponsored"
+          style="text-decoration:underline">offiziellen neowake-Website</a>.</p>
+    </div>
+  </section>
+
+  <section class="section" id="faq">
+    <div class="wrap">
+      <div class="s-head">
+        <div class="eyebrow">Häufige Fragen</div>
+        <h2>FAQ zur neowake® Chroma Watch</h2>
+      </div>
+      <div class="faq-list">
+
+        <div class="faq-item">
+          <button class="faq-btn" onclick="toggleFaq(this)">Ist die Chroma Watch ein zugelassenes Medizinprodukt?<i
+              class="fa-solid fa-plus"></i></button>
+          <div class="faq-answer">
+            <p>Nach den uns vorliegenden öffentlichen Informationen wird die Chroma Watch als Wellness-Produkt
+              vermarktet, nicht als zugelassenes Medizinprodukt für die Behandlung konkreter Erkrankungen. Sie ersetzt
+              keine ärztliche Diagnose oder Therapie.</p>
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <button class="faq-btn" onclick="toggleFaq(this)">Wie sicher ist die Anwendung von Lasern am Handgelenk?<i
+              class="fa-solid fa-plus"></i></button>
+          <div class="faq-answer">
+            <p>Das Gerät arbeitet mit Low-Level-Diodenlasern niedriger Leistung, die nach Herstellerangabe für die
+              Hautanwendung konzipiert sind und mit einer Schutzbrille ausgeliefert werden. Dennoch sollten Anwender die
+              Gebrauchsanleitung genau befolgen und insbesondere bei Applikatoren in Augennähe vorsichtig sein.</p>
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <button class="faq-btn" onclick="toggleFaq(this)">Wie lange dauert es, bis Effekte spürbar sind?<i
+              class="fa-solid fa-plus"></i></button>
+          <div class="faq-answer">
+            <p>Hier gibt es keine verlässlichen, studienbasierten Zeitangaben für dieses spezifische Produkt.
+              Nutzererfahrungen variieren stark und sind kein Ersatz für klinische Daten. Wer das Gerät testet, sollte
+              das 30-tägige Rückgaberecht als realistischen Testzeitraum einplanen.</p>
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <button class="faq-btn" onclick="toggleFaq(this)">Unterscheidet sich die Chroma Watch von klassischen
+            Rotlicht-Panels?<i class="fa-solid fa-plus"></i></button>
+          <div class="faq-answer">
+            <p>Ja, in Form und Anwendungsweise: Rotlicht-Panels sind stationäre Geräte mit meist höherer Leistungsdichte
+              für größere Körperflächen, während die Chroma Watch ein tragbares, mobiles Gerät mit punktueller Anwendung
+              am Handgelenk und über Applikatoren ist. Die Evidenzlage für stationäre Rotlichttherapie ist insgesamt
+              umfangreicher als für dieses spezifische Wearable.</p>
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <button class="faq-btn" onclick="toggleFaq(this)">Gibt es ein Rückgaberecht, falls das Produkt nicht
+            überzeugt?<i class="fa-solid fa-plus"></i></button>
+          <div class="faq-answer">
+            <p>Laut Hersteller besteht ein 30-tägiges Geld-zurück-Recht sowie eine 2-jährige Garantie. Details zu
+              Bedingungen und Rückversand finden Sie in den AGB der offiziellen neowake-Website.</p>
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <button class="faq-btn" onclick="toggleFaq(this)">Wo kann ich die Chroma Watch kaufen?<i
+              class="fa-solid fa-plus"></i></button>
+          <div class="faq-answer">
+            <p>Um ein Originalprodukt, gültige Garantie und aktuelle Preise zu erhalten, empfehlen wir den Kauf direkt
+              über die offizielle neowake-Website.</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="editorial" style="padding-top:20px">
+    <div class="wrap">
+      <div class="sources-box">
+        <h4>Methodik & Quellen dieser Seite</h4>
+        <p style="margin-bottom:12px">Diese Seite wurde auf Basis öffentlich zugänglicher Herstellerangaben,
+          Produktseiten und der vom Hersteller selbst zitierten Studie erstellt. Wir haben bewusst Herstelleraussagen
+          von unabhängig überprüfbaren Fakten getrennt und auf erfundene Testimonials, Bewertungen oder Expertenzitate
+          verzichtet.</p>
+        <ol>
+          <li>Offizielle Produktseite neowake® Chroma Watch (neowake.de / en-neowake.com)</li>
+          <li>Litscher, G. & Litscher, D. (2016): "A Laser Watch for Simultaneous Laser Blood Irradiation and Laser
+            Acupuncture at the Wrist" Pilotstudie zur Mikrozirkulation.</li>
+          <li>Allgemeine Fachliteratur zu Photobiomodulation / Low-Level-Lasertherapie (PBM) in dermatologischen und
+            physiotherapeutischen Anwendungskontexten.</li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="foot-inner">
+      <div>
+        <div class="foot-logo">Chroma Watch</div>
+        <p class="foot-desc">Eine unabhängige, werbefinanzierte Informationsseite zur neowake® Chroma Watch. Wir sind
+          nicht der Hersteller und keine medizinische Einrichtung.</p>
+        <p class="foot-disc">Diese Inhalte dienen ausschließlich der allgemeinen Information und ersetzen keine
+          medizinische Beratung, Diagnose oder Behandlung. Aussagen zur Wirkung basieren teils auf Herstellerangaben und
+          einer begrenzten Studienlage; sie wurden nicht durch die zuständigen Behörden geprüft oder zugelassen.
+          Sprechen Sie vor der Anwendung mit einer Ärztin oder einem Arzt, insbesondere bei bestehenden Erkrankungen,
+          Schwangerschaft oder Medikamenteneinnahme. Diese Seite enthält Affiliate-Links; bei einem Kauf erhalten wir
+          ggf. eine Provision.</p>
+      </div>
+      <div class="foot-col">
+        <h5>Seite</h5>
+        <ul>
+          <li><a href="#funktionsweise">Funktionsweise</a></li>
+          <li><a href="#wissenschaft">Wissenschaft</a></li>
+          <li><a href="#lieferumfang">Lieferumfang</a></li>
+          <li><a href="#faq">FAQ</a></li>
+        </ul>
+      </div>
+      <div class="foot-col">
+        <h5>Offiziell</h5>
+        <ul>
+          <li><a href="https://en-neowake.com/order" target="_blank" rel="nofollow sponsored">neowake® Website</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="foot-bottom">© 2026 Chroma Watch — unabhängige Produktanalyse, kein offizieller neowake-Auftritt.
+    </div>
+  </footer>
+
+  <script>
+    const burger = document.getElementById('navBurger');
+    function toggleFaq(btn) {
+      const ans = btn.nextElementSibling;
+      const isOpen = ans.classList.contains('open');
+      document.querySelectorAll('.faq-answer.open').forEach(a => a.classList.remove('open'));
+      document.querySelectorAll('.faq-btn.open').forEach(b => b.classList.remove('open'));
+      if (!isOpen) { ans.classList.add('open'); btn.classList.add('open'); }
+    }
+  </script>
+</body>
+
+</html>
